@@ -6,7 +6,7 @@ Futtatáshoz szükséges parancsok:
 `git clone https://github.com/Dini108/permission_test.git`
 (A projekt klónozása)
 
-`cd todotest`
+`cd permission_test`
 (Projekt gyökér mappájába jutás)
 
 `composer install`
