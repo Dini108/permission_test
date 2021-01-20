@@ -1,4 +1,4 @@
-# todotest
+# Permission_test
 Permission_test feladat
 
 Futtatáshoz szükséges parancsok:
